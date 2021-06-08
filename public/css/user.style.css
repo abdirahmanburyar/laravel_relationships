@@ -1,0 +1,8 @@
+.user_management {
+    padding: 0px 20px;
+    height: 93vh;
+}
+.user_management .titles {
+    font-weight: bold;
+    font-size: 20px;
+}
